@@ -1,0 +1,14 @@
+C:\Users\raTex\source\repos\Game Sneak\bin\Debug\Game Sneak.exe.config
+C:\Users\raTex\source\repos\Game Sneak\bin\Debug\Game Sneak.exe
+C:\Users\raTex\source\repos\Game Sneak\bin\Debug\Game Sneak.pdb
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\Game Sneak.csprojAssemblyReference.cache
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\MainWindow.g.cs
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\App.g.cs
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\Game Sneak_MarkupCompile.cache
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\Game Sneak_MarkupCompile.lref
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\MainWindow.baml
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\Game Sneak.g.resources
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\Game_Sneak.Properties.Resources.resources
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\Game Sneak.csproj.GenerateResource.cache
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\Game Sneak.exe
+C:\Users\raTex\source\repos\Game Sneak\obj\Debug\Game Sneak.pdb
